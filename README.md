@@ -53,7 +53,7 @@
 Hệ thống được tổ chức khoa học để phục vụ việc chấm điểm và kiểm tra tiến độ:
 * [setup/](./setup/) : Chứa file cơ sở dữ liệu [db.bacpac](./setup/db.bacpac) phục vụ việc khôi phục database.
 * [progress-report/](./progress-report/) : Thư mục lưu trữ các file báo cáo tiến độ thực hiện đồ án hàng tuần (`BaoCaoTuan1.md`, `BaoCaoTuan2.md`, `BaoCaoTuan3.md`, `BaoCaoTuan4.md`).
-* [thesis/](./thesis/) : Chứa file báo cáo đồ án chính thức [ASPNET-DK24TT80161-TranThiHienLuong-WebQuanLiChiTieu.docx](./thesis/ASPNET-DK24TT80161-TranThiHienLuong-WebQuanLiChiTieu.docx).
+* [thesis/](./thesis/) : Chứa file báo cáo đồ án chính thức [ASPNET-DK24TT80161-VongQuocVinh-WebQuanLiChiTieu.docx](./thesis/ASPNET-DK24TT80161-VongQuocVinh-WebQuanLiChiTieu.docx).
 * [src/](./src/) : Thư mục chứa toàn bộ mã nguồn ứng dụng ASP.NET Core MVC.
 
 ---
