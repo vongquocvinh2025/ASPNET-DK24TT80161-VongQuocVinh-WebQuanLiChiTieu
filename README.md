@@ -2,11 +2,10 @@
 ## ĐỀ TÀI: XÂY DỰNG WEBSITE QUẢN LÝ CHI TIÊU CÁ NHÂN
 
 ### THÔNG TIN SINH VIÊN & GIẢNG VIÊN HƯỚNG DẪN
-* **Sinh viên thực hiện**: Trần Thị Hiền Lương
-* **MSSV**: 170124022
-* **Mã lớp**: DK24TTG1
-* **Email**: tranthihienluong2025@gmail.com
-* **SĐT**: [Cung cấp số điện thoại của bạn]
+* **Sinh viên thực hiện**: Vòng Quốc Vinh
+* **MSSV**: 170124415
+* **Mã lớp**: DK24TT80161
+* **Email**: vongquocvinh2025@gmail.com
 * **Giảng viên hướng dẫn**: ThS. Đoàn Phước Miền
 
 ---
