@@ -61,7 +61,7 @@ Hệ thống được tổ chức khoa học để phục vụ việc chấm đi
 ### 4. Hướng dẫn cài đặt và chạy chương trình
 Để hỗ trợ Giảng viên cài đặt và chấm điểm nhanh chóng, vui lòng thực hiện theo các bước hướng dẫn chi tiết dưới đây:
 
-[XEM FILE BÁO CÁO CHI TIẾT TẠI ĐÂY](./thesis/ASPNET-DK24TT80161-TranThiHienLuong-WebQuanLiChiTieu.docx)
+[XEM FILE BÁO CÁO CHI TIẾT TẠI ĐÂY](./thesis/ASPNET-DK24TT80161-VongQuocVinh-WebQuanLiChiTieu.docx)
 
 #### Tóm tắt các bước thực hiện nhanh:
 1. **Tải mã nguồn**: Clone hoặc tải file nén Zip của Repository này về máy tính.
